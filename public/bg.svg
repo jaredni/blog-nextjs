@@ -1,0 +1,45 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+	<title>bg-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="1409" y1="581" x2="1409" y2="511" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00ffff"/>
+			<stop offset="1" stop-color="#ccff66"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="460" y1="140" x2="460" y2="60" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00ffff"/>
+			<stop offset="1" stop-color="#ccff66"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="317.1" y1="735.5" x2="317.1" y2="693.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#00ffff"/>
+			<stop offset="1" stop-color="#ccff66"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="118.4" y1="345.2" x2="118.4" y2="434.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff0000"/>
+			<stop offset="1" stop-color="#ffcc00"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="1342.7" y1="96" x2="1342.7" y2="168.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff0000"/>
+			<stop offset="1" stop-color="#ffcc00"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #ffffff;stroke: url(#g1);stroke-width: 2 } 
+		.s2 { fill: #ffffff;stroke: url(#g2);stroke-width: 4 } 
+		.s3 { fill: #ffffff;stroke: url(#g3);stroke-width: 2 } 
+		.s4 { fill: #ffffff;stroke: url(#g4);stroke-width: 4 } 
+		.s5 { fill: #ffffff;stroke: url(#g5);stroke-width: 4 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 0h1600v900h-1600z"/>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s1" d="m1409 581l41.3-70 39.7 70z"/>
+			<path id="Layer" class="s2" d="m500 140c-22.1 0-40-17.9-40-40 0-22.1 17.9-40 40-40 22.1 0 40 17.9 40 40 0 22.1-17.9 40-40 40z"/>
+			<path id="Layer" class="s3" d="m400.9 735.5h-83.8c0-23.1 18.8-41.9 41.9-41.9 23.1 0 41.9 18.8 41.9 41.9z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s4" d="m181.2 389.8l-31.4 44.6-31.4-44.6 31.4-44.6z"/>
+			<path id="Layer" class="s5" d="m1426.8 132.4l-21.1 36.4h-42l-21-36.4 21-36.4h42z"/>
+		</g>
+	</g>
+</svg>
